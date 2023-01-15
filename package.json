@@ -1,0 +1,22 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "module 10 challenge",
+  "main": "index.js",
+  "scripts": {
+    "jest": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v1ct0r14m/team-profile-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/v1ct0r14m/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/v1ct0r14m/team-profile-generator#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
